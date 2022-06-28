@@ -1,0 +1,27 @@
+.td-cert-serpro {
+    border-top: 1px solid rgb(211, 211, 211);
+    padding-top: 10px;
+    text-align: center;
+}
+
+.LoginScreen .contentBox {
+    max-width: inherit;
+}
+
+#login-outros-wrapper {
+    display: inline;
+}
+
+.login-outros {
+    display: table-cell;
+}
+
+.login-outros button {
+    border: none;
+    border-radius: 5px;
+    margin: 1em 0.3em;
+}
+
+.login-outros img.selo-login {
+    margin: 0.5em 0.1em;
+}
